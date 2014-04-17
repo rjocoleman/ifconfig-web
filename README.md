@@ -1,5 +1,7 @@
 # ifconfig-web
 
+[![Build Status](https://drone.io/github.com/rjocoleman/ifconfig-web/status.png)](https://drone.io/github.com/rjocoleman/ifconfig-web/latest)
+
 A very simple webserver written in go to output all non-loopback IP addresses.
 Like a simple ifconfig over HTTP. Listens on port 8000.
 
